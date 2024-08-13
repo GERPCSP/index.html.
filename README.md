@@ -11,12 +11,12 @@
 </head>
 
 <body>
-    <header>GUIMINAMFLIX</header>
+    <header>CAVEIRAFLIX</header>
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>VINGADORES</h1>
-            <p>#homem-aranha</p>
+            <h1>ATÉ O ÚLTIMO HOMEM</h1>
+            <p>#PACTO</p>
         </div>
 
         <div>
